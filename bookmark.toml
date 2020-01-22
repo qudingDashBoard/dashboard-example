@@ -1,13 +1,13 @@
-[site.tool]
+[tool]
 name='工具'
-    [[site.tool.sites]]
+    [[tool.sites]]
     url='https://mrdear.cn'
     name='屈定的blog'
     desc='屈定的个人博客'
 
-[site.blog]
+[blog]
 name='博客收藏'
-    [[site.blog.sites]]
+    [[blog.sites]]
     url='https://mrdear.cn'
     name='屈定的blog'
     desc='屈定的个人博客'
