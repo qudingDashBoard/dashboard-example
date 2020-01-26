@@ -94,3 +94,111 @@ name='资源'
     name='低端影视'
     favicon='https://cdn.mrdear.cn/ddrk.me/16'
     desc='高清电影在线'
+[copy_blog]
+name='Copy订阅'
+    [[copy_blog.sites]]
+    url='http://tech.lede.com'
+    name='网易乐得技术团队'
+    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
+    desc='网易乐得技术分享'
+    [[copy_blog.sites]]
+    url='https://tech.meituan.com'
+    name='美团技术团队'
+    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
+    desc='美团技术分享'
+    [[copy_blog.sites]]
+    url='http://vitrun.github.io'
+    name='Food for Thought'
+    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
+    desc='小志'
+    [[copy_blog.sites]]
+    url='https://blog.alswl.com'
+    name='Log4D'
+    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
+    desc='3D'
+    [[copy_blog.sites]]
+    url='https://javadoop.com'
+    name='JavaDoop'
+    favicon='https://cdn.mrdear.cn/javadoop.com/16'
+    desc='众安保险大佬Java分享'
+[copy_blog2]
+name='Copy订阅2'
+    [[copy_blog2.sites]]
+    url='http://tech.lede.com'
+    name='网易乐得技术团队'
+    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
+    desc='网易乐得技术分享'
+    [[copy_blog2.sites]]
+    url='https://tech.meituan.com'
+    name='美团技术团队'
+    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
+    desc='美团技术分享'
+    [[copy_blog2.sites]]
+    url='http://vitrun.github.io'
+    name='Food for Thought'
+    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
+    desc='小志'
+    [[copy_blog2.sites]]
+    url='https://blog.alswl.com'
+    name='Log4D'
+    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
+    desc='3D'
+    [[copy_blog2.sites]]
+    url='https://javadoop.com'
+    name='JavaDoop'
+    favicon='https://cdn.mrdear.cn/javadoop.com/16'
+    desc='众安保险大佬Java分享'
+[copy_blog3]
+name='Copy订阅2'
+    [[copy_blog3.sites]]
+    url='http://tech.lede.com'
+    name='网易乐得技术团队'
+    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
+    desc='网易乐得技术分享'
+    [[copy_blog3.sites]]
+    url='https://tech.meituan.com'
+    name='美团技术团队'
+    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
+    desc='美团技术分享'
+    [[copy_blog3.sites]]
+    url='http://vitrun.github.io'
+    name='Food for Thought'
+    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
+    desc='小志'
+    [[copy_blog3.sites]]
+    url='https://blog.alswl.com'
+    name='Log4D'
+    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
+    desc='3D'
+    [[copy_blog3.sites]]
+    url='https://javadoop.com'
+    name='JavaDoop'
+    favicon='https://cdn.mrdear.cn/javadoop.com/16'
+    desc='众安保险大佬Java分享'
+[copy_blog4]
+name='Copy订阅4'
+    [[copy_blog4.sites]]
+    url='http://tech.lede.com'
+    name='网易乐得技术团队'
+    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
+    desc='网易乐得技术分享'
+    [[copy_blog4.sites]]
+    url='https://tech.meituan.com'
+    name='美团技术团队'
+    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
+    desc='美团技术分享'
+    [[copy_blog4.sites]]
+    url='http://vitrun.github.io'
+    name='Food for Thought'
+    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
+    desc='小志'
+    [[copy_blog4.sites]]
+    url='https://blog.alswl.com'
+    name='Log4D'
+    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
+    desc='3D'
+    [[copy_blog4.sites]]
+    url='https://javadoop.com'
+    name='JavaDoop'
+    favicon='https://cdn.mrdear.cn/javadoop.com/16'
+    desc='众安保险大佬Java分享'
