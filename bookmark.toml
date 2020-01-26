@@ -149,7 +149,7 @@ name='Copy订阅2'
     favicon='https://cdn.mrdear.cn/javadoop.com/16'
     desc='众安保险大佬Java分享'
 [copy_blog3]
-name='Copy订阅2'
+name='Copy订阅3'
     [[copy_blog3.sites]]
     url='http://tech.lede.com'
     name='网易乐得技术团队'
