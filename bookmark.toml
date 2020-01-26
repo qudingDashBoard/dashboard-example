@@ -1,13 +1,96 @@
-[tool]
+[tools]
 name='工具'
     [[tool.sites]]
-    url='https://mrdear.cn'
-    name='屈定的blog'
-    desc='屈定的个人博客'
+    url='https://www.666email.com'
+    name='666Email'
+    favicon='//cdn.mrdear.cn/default/dragon-min.png'
+    desc='10分钟邮箱'
+    [[tool.sites]]
+    url='https://haveibeenpwned.com'
+    name='社工库'
+    favicon='https://haveibeenpwned.com/Content/Images/PasswordManager/1PasswordLogo.svg'
+    desc='密码泄漏查询'
+    [[tool.sites]]
+    url='http://www.stickpng.com'
+    name='PNG搜索'
+    favicon='https://cdn.mrdear.cn/www.stickpng.com/16'
+    desc='搜索PNG图片'
+    [[tool.sites]]
+    url='https://www.typingclub.com'
+    name='TypingClub'
+    favicon='https://cdn.mrdear.cn/www.typingclub.com/16'
+    desc='标准指法联系'
+    [[tool.sites]]
+    url='https://www.processon.com'
+    name='ProcessOn'
+    favicon='https://cdn.mrdear.cn/www.processon.com/16'
+    desc='在线流程图'
+    [[tool.sites]]
+    url='http://zhangweijie.cn/hq-icon/'
+    name='icon查询'
+    favicon='//cdn.mrdear.cn/default/chicken-min.png'
+    desc='查询应用ICON'
+    [[tool.sites]]
+    url='https://regexr.com/'
+    name='在线正则'
+    favicon='//cdn.mrdear.cn/default/rabbit-min.png'
+    desc='在线正则测试'
+    [[tool.sites]]
+    url='https://colors.ichuantong.cn/'
+    name='古典配色'
+    favicon='//cdn.mrdear.cn/default/cow-min.png'
+    desc='古典配色指南'
 
 [blog]
-name='博客收藏'
+name='订阅'
     [[blog.sites]]
-    url='https://mrdear.cn'
-    name='屈定的blog'
-    desc='屈定的个人博客'
+    url='http://tech.lede.com'
+    name='网易乐得技术团队'
+    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
+    desc='网易乐得技术分享'
+    [[blog.sites]]
+    url='https://tech.meituan.com'
+    name='美团技术团队'
+    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
+    desc='美团技术分享'
+    [[blog.sites]]
+    url='http://vitrun.github.io'
+    name='Food for Thought'
+    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
+    desc='小志'
+    [[blog.sites]]
+    url='https://blog.alswl.com'
+    name='Log4D'
+    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
+    desc='3D'
+    [[blog.sites]]
+    url='https://javadoop.com'
+    name='JavaDoop'
+    favicon='https://cdn.mrdear.cn/javadoop.com/16'
+    desc='众安保险大佬Java分享'
+
+[forum]
+name='资讯'
+    [[forum.sites]]
+    url='https://www.tonymacx86.com/'
+    name='tonymacx86'
+    favicon='https://cdn.mrdear.cn/www.tonymacx86.com/16'
+    desc='黑苹果论坛'
+    [[forum.sites]]
+    url='https://www.v2ex.com/'
+    name='V2EX'
+    favicon='https://www.v2ex.com/static/img/icon_rayps_64.png'
+    desc='V2EX论坛'
+
+[resource]
+name='资源'
+    [[resource.sites]]
+    url='https://www.yunpanjingling.com'
+    name='云盘精灵'
+    favicon='https://www.yunpanjingling.com/share/images/favicon.png'
+    desc='百度云资源'
+    [[resource.sites]]
+    url='http://ddrk.me/'
+    name='低端影视'
+    favicon='https://cdn.mrdear.cn/ddrk.me/16'
+    desc='高清电影在线'
