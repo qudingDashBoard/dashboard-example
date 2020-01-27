@@ -1,5 +1,6 @@
 [tools]
 name='工具'
+sort=1
     [[tool.sites]]
     url='https://www.666email.com'
     name='666Email'
@@ -43,6 +44,7 @@ name='工具'
 
 [blog]
 name='订阅'
+sort=2
     [[blog.sites]]
     url='http://tech.lede.com'
     name='网易乐得技术团队'
@@ -126,6 +128,7 @@ name='订阅'
 
 [forum]
 name='资讯'
+sort=3
     [[forum.sites]]
     url='https://www.tonymacx86.com/'
     name='tonymacx86'
@@ -184,6 +187,7 @@ name='资讯'
 
 [resource]
 name='资源'
+sort=4
     [[resource.sites]]
     url='https://www.yunpanjingling.com'
     name='云盘精灵'
@@ -212,6 +216,7 @@ name='资源'
 
 [blog2]
 name='扩充订阅2'
+sort=5
     [[blog2.sites]]
     url='http://tech.lede.com'
     name='网易乐得技术团队'
