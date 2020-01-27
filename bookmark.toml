@@ -1,42 +1,42 @@
 [tools]
 name='工具'
 sort=1
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://www.666email.com'
     name='666Email'
     favicon='//cdn.mrdear.cn/default/dragon-min.png'
     desc='10分钟邮箱'
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://haveibeenpwned.com'
     name='社工库'
     favicon='https://haveibeenpwned.com/Content/Images/PasswordManager/1PasswordLogo.svg'
     desc='密码泄漏查询'
-    [[tool.sites]]
+    [[tools.sites]]
     url='http://www.stickpng.com'
     name='PNG搜索'
     favicon='https://cdn.mrdear.cn/www.stickpng.com/16'
     desc='搜索PNG图片'
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://www.typingclub.com'
     name='TypingClub'
     favicon='https://cdn.mrdear.cn/www.typingclub.com/16'
     desc='标准指法联系'
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://www.processon.com'
     name='ProcessOn'
     favicon='https://cdn.mrdear.cn/www.processon.com/16'
     desc='在线流程图'
-    [[tool.sites]]
+    [[tools.sites]]
     url='http://zhangweijie.cn/hq-icon/'
     name='icon查询'
     favicon='//cdn.mrdear.cn/default/chicken-min.png'
     desc='查询应用ICON'
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://regexr.com/'
     name='在线正则'
     favicon='//cdn.mrdear.cn/default/rabbit-min.png'
     desc='在线正则测试'
-    [[tool.sites]]
+    [[tools.sites]]
     url='https://colors.ichuantong.cn/'
     name='古典配色'
     favicon='//cdn.mrdear.cn/default/cow-min.png'
