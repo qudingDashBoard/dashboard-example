@@ -1,3 +1,14 @@
+[readnote]
+name='读书笔记'
+sort=0
+    [[readnote.sites]]
+    url='https://mubu.com/doc/2TG2Oiz1mU'
+    name='秒杀系统读书笔记'
+    favicon='https://mubu.com/favicon.ico'
+    desc='极客时间秒杀笔记'
+    opneType='iframe'
+    config.iframe-style='height:100%;width:100%;min-height:1000px'
+
 [tools]
 name='工具'
 sort=1
@@ -213,87 +224,3 @@ sort=4
     name='BT之家'
     favicon='//cdn.mrdear.cn/default/monkey-min.png'
     desc='BT之家'
-
-[blog2]
-name='扩充订阅2'
-sort=5
-    [[blog2.sites]]
-    url='http://tech.lede.com'
-    name='网易乐得技术团队'
-    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
-    desc='网易乐得技术分享'
-    [[blog2.sites]]
-    url='https://tech.meituan.com'
-    name='美团技术团队'
-    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
-    desc='美团技术分享'
-    [[blog2.sites]]
-    url='http://vitrun.github.io'
-    name='Food for Thought'
-    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
-    desc='小志'
-    [[blog2.sites]]
-    url='https://blog.alswl.com'
-    name='Log4D'
-    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
-    desc='3D'
-    [[blog2.sites]]
-    url='https://javadoop.com'
-    name='JavaDoop'
-    favicon='https://cdn.mrdear.cn/javadoop.com/16'
-    desc='众安保险大佬Java分享'
-    [[blog2.sites]]
-    url='https://gmem.site'
-    name='绿色记忆'
-    favicon='https://cdn.mrdear.cn/gmem.site/16'
-    desc='全栈-汪震'
-    [[blog2.sites]]
-    url='http://hengyunabc.github.io'
-    name='横云断岭'
-    favicon='https://cdn.mrdear.cn/hengyunabc.github.io/16'
-    desc='阿里-断岭'
-    [[blog2.sites]]
-    url='http://hedengcheng.com'
-    name='何登成的技术博客'
-    favicon='http://assets.stickpng.com/thumbs/58481057cef1014c0b5e4951.png'
-    desc='阿里DBA主管'
-    [[blog2.sites]]
-    url='http://www.guxingke.com'
-    name='孤星可'
-    favicon='https://cdn.mrdear.cn/www.guxingke.com/16'
-    desc='堆糖小k'
-    [[blog2.sites]]
-    url='https://www.flysnow.org'
-    name='飞雪无情的博客'
-    favicon='https://cdn.mrdear.cn/www.flysnow.org/16'
-    desc='Go实战笔记作者'
-    [[blog2.sites]]
-    url='https://skyao.io/'
-    name='敖小剑'
-    favicon='https://cdn.mrdear.cn/skyao.io/16'
-    desc='Service Mesh布道师'
-    [[blog2.sites]]
-    url='https://hongjiang.info/'
-    name='宏江大佬'
-    favicon='//cdn.mrdear.cn/default/rabbit-min.png'
-    desc='挖财-宏江'
-    [[blog2.sites]]
-    url='http://tech.dianwoda.com/'
-    name='点我达'
-    favicon='https://cdn.mrdear.cn/tech.dianwoda.com/16'
-    desc='点我达技术博客'
-    [[blog2.sites]]
-    url='https://tech.songxiaocai.com/posts/index.html/'
-    name='宋小菜'
-    favicon='https://cdn.mrdear.cn/tech.songxiaocai.com/16'
-    desc='宋小菜技术博客'
-    [[blog2.sites]]
-    url='https://www.yumingyuan.me/'
-    name='鱼头的博客'
-    favicon='//cdn.mrdear.cn/default/chicken-min.png'
-    desc='极客-鱼头'
-    [[blog2.sites]]
-    url='https://draveness.me/'
-    name='面向信仰编程'
-    favicon='//cdn.mrdear.cn/default/pig-min.png'
-    desc='draveness'
