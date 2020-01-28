@@ -6,7 +6,7 @@ sort=0
     name='秒杀系统读书笔记'
     favicon='https://mubu.com/favicon.ico'
     desc='极客时间秒杀笔记'
-    opneType='iframe'
+    openType='iframe'
     config.iframe-style='height:100%;width:100%;min-height:1000px'
 
 [tools]
