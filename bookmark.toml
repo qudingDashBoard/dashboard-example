@@ -15,43 +15,30 @@ sort=1
     [[tools.sites]]
     url='https://www.666email.com'
     name='666Email'
-    favicon='//cdn.mrdear.cn/default/dragon-min.png'
     desc='10分钟邮箱'
     [[tools.sites]]
     url='https://haveibeenpwned.com'
     name='社工库'
-    favicon='https://haveibeenpwned.com/Content/Images/PasswordManager/1PasswordLogo.svg'
-    desc='密码泄漏查询'
     [[tools.sites]]
     url='http://www.stickpng.com'
     name='PNG搜索'
-    favicon='https://cdn.mrdear.cn/www.stickpng.com/16'
-    desc='搜索PNG图片'
     [[tools.sites]]
     url='https://www.typingclub.com'
     name='TypingClub'
-    favicon='https://cdn.mrdear.cn/www.typingclub.com/16'
     desc='标准指法联系'
     [[tools.sites]]
     url='https://www.processon.com'
     name='ProcessOn'
-    favicon='https://cdn.mrdear.cn/www.processon.com/16'
     desc='在线流程图'
     [[tools.sites]]
     url='http://zhangweijie.cn/hq-icon/'
     name='icon查询'
-    favicon='//cdn.mrdear.cn/default/chicken-min.png'
-    desc='查询应用ICON'
     [[tools.sites]]
     url='https://regexr.com/'
     name='在线正则'
-    favicon='//cdn.mrdear.cn/default/rabbit-min.png'
-    desc='在线正则测试'
     [[tools.sites]]
     url='https://colors.ichuantong.cn/'
     name='古典配色'
-    favicon='//cdn.mrdear.cn/default/cow-min.png'
-    desc='古典配色指南'
 
 [blog]
 name='订阅'
@@ -59,82 +46,66 @@ sort=2
     [[blog.sites]]
     url='http://tech.lede.com'
     name='网易乐得技术团队'
-    favicon='https://cdn.mrdear.cn/tech.lede.com/16'
     desc='网易乐得技术分享'
     [[blog.sites]]
     url='https://tech.meituan.com'
     name='美团技术团队'
-    favicon='https://cdn.mrdear.cn/tech.meituan.com/16'
     desc='美团技术分享'
     [[blog.sites]]
     url='http://vitrun.github.io'
     name='Food for Thought'
-    favicon='https://cdn.mrdear.cn/vitrun.github.io/16'
     desc='小志'
     [[blog.sites]]
     url='https://blog.alswl.com'
     name='Log4D'
-    favicon='https://cdn.mrdear.cn/blog.alswl.com/16'
     desc='3D'
     [[blog.sites]]
     url='https://javadoop.com'
     name='JavaDoop'
-    favicon='https://cdn.mrdear.cn/javadoop.com/16'
     desc='众安保险大佬Java分享'
     [[blog.sites]]
     url='https://gmem.site'
     name='绿色记忆'
-    favicon='https://cdn.mrdear.cn/gmem.site/16'
     desc='全栈-汪震'
     [[blog.sites]]
     url='http://hengyunabc.github.io'
     name='横云断岭'
-    favicon='https://cdn.mrdear.cn/hengyunabc.github.io/16'
     desc='阿里-断岭'
     [[blog.sites]]
     url='http://hedengcheng.com'
     name='何登成的技术博客'
-    favicon='http://assets.stickpng.com/thumbs/58481057cef1014c0b5e4951.png'
     desc='阿里DBA主管'
     [[blog.sites]]
     url='http://www.guxingke.com'
     name='孤星可'
-    favicon='https://cdn.mrdear.cn/www.guxingke.com/16'
     desc='堆糖小k'
     [[blog.sites]]
     url='https://www.flysnow.org'
     name='飞雪无情的博客'
-    favicon='https://cdn.mrdear.cn/www.flysnow.org/16'
     desc='Go实战笔记作者'
     [[blog.sites]]
     url='https://skyao.io/'
     name='敖小剑'
-    favicon='https://cdn.mrdear.cn/skyao.io/16'
     desc='Service Mesh布道师'
     [[blog.sites]]
     url='https://hongjiang.info/'
     name='宏江大佬'
-    favicon='//cdn.mrdear.cn/default/rabbit-min.png'
     desc='挖财-宏江'
     [[blog.sites]]
     url='http://tech.dianwoda.com/'
     name='点我达'
-    favicon='https://cdn.mrdear.cn/tech.dianwoda.com/16'
     desc='点我达技术博客'
     [[blog.sites]]
     url='https://tech.songxiaocai.com/posts/index.html/'
     name='宋小菜'
-    favicon='https://cdn.mrdear.cn/tech.songxiaocai.com/16'
     desc='宋小菜技术博客'
     [[blog.sites]]
     url='https://www.yumingyuan.me/'
     name='鱼头的博客'
-    favicon='//cdn.mrdear.cn/default/chicken-min.png'
     desc='极客-鱼头'
     [[blog.sites]]
     url='https://draveness.me/'
     name='面向信仰编程'
-    favicon='//cdn.mrdear.cn/default/pig-min.png'
     desc='draveness'
 
 [forum]
@@ -143,58 +114,44 @@ sort=3
     [[forum.sites]]
     url='https://www.tonymacx86.com/'
     name='tonymacx86'
-    favicon='https://cdn.mrdear.cn/www.tonymacx86.com/16'
     desc='黑苹果论坛'
     [[forum.sites]]
     url='https://www.v2ex.com/'
     name='V2EX'
-    favicon='https://www.v2ex.com/static/img/icon_rayps_64.png'
     desc='V2EX论坛'
     [[forum.sites]]
     url='https://www.52pojie.cn/forum-21-1.html'
     name='52破解'
-    favicon='https://cdn.mrdear.cn/www.52pojie.cn/16'
     desc='52破解资源站'
     [[forum.sites]]
     url='https://www.iplaysoft.com/'
     name='异次元软件'
-    favicon='https://cdn.mrdear.cn/www.iplaysoft.com/16'
     desc='软件资讯'
     [[forum.sites]]
     url='https://sspai.com/'
     name='少数派'
-    favicon='https://cdn.mrdear.cn/sspai.com/16'
     desc='苹果派'
     [[forum.sites]]
     url='http://free.apprcn.com/'
     name='反斗限免'
-    favicon='https://cdn.mrdear.cn/free.apprcn.com/16'
     desc='APP限免资讯'
     [[forum.sites]]
     url='https://www.waerfa.com/'
     name='Mac玩儿法'
-    favicon='https://cdn.mrdear.cn/www.waerfa.com/16'
     desc='Mac软件资讯'
     [[forum.sites]]
     url='http://www.chuapp.com'
     name='触乐'
-    favicon='https://cdn.mrdear.cn/www.chuapp.com/16'
     desc='触乐游戏资讯'
     [[forum.sites]]
     url='https://www.ifanr.com'
     name='爱泛儿'
-    favicon='//cdn.mrdear.cn/default/dog-min.png'
-    desc='爱泛儿资讯'
     [[forum.sites]]
     url='https://www.chiphell.com/'
     name='Chiphell'
-    favicon='//cdn.mrdear.cn/default/rabbit-min.png'
-    desc='Chiphell论坛'
     [[forum.sites]]
     url='http://www.dgtle.com/'
     name='数字尾巴'
-    favicon='//cdn.mrdear.cn/default/snake-min.png'
-    desc='数码资讯社区'
 
 [resource]
 name='资源'
@@ -202,25 +159,15 @@ sort=4
     [[resource.sites]]
     url='https://www.yunpanjingling.com'
     name='云盘精灵'
-    favicon='https://www.yunpanjingling.com/share/images/favicon.png'
-    desc='百度云资源'
     [[resource.sites]]
     url='http://ddrk.me/'
     name='低端影视'
-    favicon='https://cdn.mrdear.cn/ddrk.me/16'
-    desc='高清电影在线'
     [[resource.sites]]
     url='https://www.sq688.com/'
     name='无损音乐'
-    favicon='https://cdn.mrdear.cn/www.sq688.com/16'
-    desc='无损音乐下载'
     [[resource.sites]]
     url='https://unsplash.com/'
     name='unsplash'
-    favicon='//cdn.mrdear.cn/default/tiger-min.png'
-    desc='壁纸'
     [[resource.sites]]
     url='http://www.btbtt.me/'
     name='BT之家'
-    favicon='//cdn.mrdear.cn/default/monkey-min.png'
-    desc='BT之家'
