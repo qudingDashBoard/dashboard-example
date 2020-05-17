@@ -4,9 +4,32 @@ sort=1
     [[blog.sites]]
     url='https://mrdear.cn/atom.xml'
     name='屈定的blog'
+    [[blog.sites]]
+    url='https://blog.alswl.com/atom.xml'
+    name='3D的博客'
+    [[blog.sites]]
+    url='https://draveness.me/feed.xml'
+    name='面向信仰编程'
 [itNews]
-name='IT咨询'
-sort=1
+name='IT资讯'
+sort=2
     [[itNews.sites]]
     url='https://sspai.com/feed'
+    favicon='https://cdn.sspai.com/sspai/assets/img/favicon/icon.ico'
     name='少数派'
+    [[itNews.sites]]
+    url='https://www.expreview.com/rss.php'
+    name='超能网'
+    [[itNews.sites]]
+    url='https://www.ifanr.com/feed'
+    name='爱范儿'
+    [[itNews.sites]]
+    url='https://feed.iplaysoft.com'
+    favicon='https://cdn-1251403103.file.myqcloud.com/www.iplaysoft.com/32'
+    name='异次元软件'
+    [[itNews.sites]]
+    url='http://free.apprcn.com/category/ios/feed/'
+    name='反斗IOS限免'
+    [[itNews.sites]]
+    url='http://free.apprcn.com/category/mac/feed/'
+    name='反斗MAC限免'
